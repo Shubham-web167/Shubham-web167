@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/c3f95652-6064-4915-8e1b-753bd34e4d82" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,100:00c6ff&height=180&section=header&text=Hey%2C%20I'm%20Shubham%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
@@ -81,7 +81,7 @@ C++20 · Qt6 · MuPDF · CMake · vcpkg
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-joshi-376125331)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-web167)
 
 ---
